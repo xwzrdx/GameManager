@@ -11,7 +11,6 @@ Decided to do this fun little project to better myself in memory hacking!
 # Current Features:
 
 * Game Hours Tracker (Playtime)
-* Discord Rich Presence
 * FOV Changer for every supported game in the list
 * Some games also have other features; Unlimited Ammo, God Mode, Ghost Mode, FPS Unlocker, etc.
 * Pattern Scanner to prevent game updates/versions from breaking the mods.
