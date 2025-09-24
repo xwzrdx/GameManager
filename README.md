@@ -31,3 +31,4 @@ Decided to do this fun little project to better myself in memory hacking!
 
 # Screenshots:
 [Tool + Game Previews](https://imgur.com/a/11n8YHl)
+[More](https://github.com/xwzrdx/GameManager/releases/tag/screenshots)
