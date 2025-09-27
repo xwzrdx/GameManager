@@ -26,7 +26,7 @@ Decided to do this fun little project to better myself in memory hacking!
 * Most games are signature scanned, meaning updates/different versions SHOULD work. Although I don't own different versions for most games so I can't pratically test as well as I wish I could.
 * For a full list of games see the tool's game list.
 * For safety, don't use online & if applicable use ``-nobattleye`` or ``-nobe`` or ``-eac_launcher`` to disable the game's respective anti-cheats (BattlEye & Easy Anti Cheat)
-
+* If the game uses EAC, go to the game folder and temporarily rename ``EasyAntiCheat_x64.dll``
 
 
 # Screenshots:
